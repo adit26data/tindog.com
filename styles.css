@@ -1,0 +1,150 @@
+body {
+    overflow-x: hidden;
+}
+
+#title {
+    background-image: linear-gradient(to left, #ff004c, #ef763e);
+}
+
+.container-fluid {
+    padding: 3% 10%;
+}
+
+.navbar-brand {
+    font-size: 4rem;
+}
+
+.nav-item {
+    font-size: 1.5rem;
+    padding: 0 18px;
+}
+
+.btn {
+    font-weight: lighter;
+    margin-top: 3rem;
+}
+
+h1 {
+    margin-top: 3rem;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+}
+
+img[alt*="iphone-mockup"] {
+    transform: rotate(25deg);
+    width: 60%;
+
+}
+
+.download-button {
+    margin: 0 2% 5%;
+}
+
+.rowsecondary {
+    padding: 5% 20% 5% 15%;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+p {
+    color: #8f8f8f;
+
+}
+
+.feature-box {
+    text-align: center;
+}
+
+.icon {
+    color: #fa3f5b;
+    margin-bottom: 2rem;
+}
+
+.icon:hover {
+    color: black;
+}
+
+#testimonials {
+    text-align: center;
+    background-image: linear-gradient(to left, #fa3f5b, #ef763e);
+    color: white;
+    font-weight: bold;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+h2 {
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+.dog {
+    border-radius: 10rem;
+    width: 10%;
+    margin: 20px;
+}
+
+#press {
+    background-image: linear-gradient(to left, #fa3f5b, #ef763e);
+    text-align: center;
+    padding: 0 19px;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.testimonial-image {
+    border-radius: 10rem;
+    width: 10%;
+    margin: 20px;
+}
+
+#pricing {
+    padding: 5% 10% 5% 15%;
+}
+
+.pricing-heading h2,
+p {
+    text-align: center;
+}
+
+.imgtemp {
+    width: 100%;
+    height: 100%;
+}
+
+.card-body {
+    background-image: linear-gradient(to left, #fa3f5b, #ef763e);
+    text-align: center;
+    color: white
+}
+
+.card-body p {
+    color: white;
+}
+
+#cta,
+#footer {
+    background-image: linear-gradient(to left, #fa3f5b, #ef763e);
+    text-align: center;
+}
+
+#cta h3 {
+    color: white;
+}
+
+.download-buttons {
+    margin-top: 10px;
+}
